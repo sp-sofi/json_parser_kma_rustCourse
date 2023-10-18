@@ -4,5 +4,6 @@ My first rust parser for education purpose.
 
 ### Example
 
-rust
+```rust
 to be done...
+```
