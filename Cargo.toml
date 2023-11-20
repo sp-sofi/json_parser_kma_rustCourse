@@ -1,10 +1,12 @@
 [package]
 name = "my_parser_sofia"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
-description = "my firts rust parser"
-license = "MIT"
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "A Rust JSON Parser for education purpose - Parses JSON files into a structured format and serializes JSON values."
 
 [dependencies]
+anyhow = "1.0.75"
+clap = { version = "4.4.8", features = ["derive"] }
 peg = "0.8.2"
+pest = "2.7.5"
+pest_derive = "2.7.5"
