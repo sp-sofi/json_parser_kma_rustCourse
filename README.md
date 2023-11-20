@@ -1,4 +1,4 @@
-# my_parser_sofia
+# json_parser_kma_rustCourse
 My first JSON rust parser for education purpose.
 
 ## Overview
