@@ -24,9 +24,3 @@ The parsed JSON values can be utilized in Rust applications for various purposes
     ```shell
     .\target\debug\my_parser_sofia.exe --input-file data.json --output-file data_out.json
     ```
-
-### Example
-
-```rust
-to be done...
-```
